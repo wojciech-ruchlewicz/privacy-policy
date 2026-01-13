@@ -7,13 +7,16 @@ This Privacy Policy describes how **Barcode Generator** (“the app”) handles 
 
 ### Summary
 
-* The app works **offline** and does **not collect or share personal information**.
+* The app works **offline** and does **not collect or transmit personal data to the developer’s servers**.
 * Codes and labels you create are stored **locally on your device**.
 * The app shows **no ads** and uses **no analytics or tracking SDKs**.
+* If you choose to **share/export** a generated code image, the content you entered (e.g., a phone number embedded in a QR code) may be shared with the app you select.
 
 ### Data Collection and Sharing
 
-We do not collect, store, or transmit personal data to our servers. The app does not have a user account system and does not require you to provide personal information.
+We do not collect, store, or transmit personal data to our servers. The app does not have a user account system.
+
+The app can generate codes that may contain user-provided information (for example, a QR code encoding a phone number). If you use Android’s **Share** or **Save/Export** functions, the generated image/file (and its encoded content) may be transferred to the app or service you choose (for example, a messaging app, email client, cloud drive, etc.). This happens **only when you explicitly initiate it**.
 
 ### On-device Data
 
